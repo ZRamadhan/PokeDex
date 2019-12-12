@@ -8,7 +8,7 @@ In this repo you will find my first iteration of building the PokeDex app, and a
 
 ## Database
 
-*[Documentation of the API PokeApi](https://pokeapi.co/)
+* [Documentation of the API PokeApi](https://pokeapi.co/)
 
 ## Built with
 
