@@ -1,4 +1,4 @@
-# GABatch4
+# PokeDex
 
 This project are meant to be fulfiling the requirements of Warung Pintar company selection test.
 
